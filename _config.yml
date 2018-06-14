@@ -18,7 +18,7 @@ email: leewk921223@gmail.com
 description: Wonkyung Lee's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wonkyunglee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: wonkyunglee 
+github_username: wonkyunglee
 
 # Build settings
 markdown: kramdown
