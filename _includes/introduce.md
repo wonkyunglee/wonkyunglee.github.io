@@ -57,6 +57,10 @@
     - IDE : Vim
     - Environment Setting : Ubuntu, Docker
 
+<!--
+
 # Summarization
 - [Github page for summarize Digital Signal Processing in Korean ](https://wonkyunglee.github.io/dsp/)
 - [Github page for summarize Deeplearning Book in Korean](https://wonkyunglee.github.io/dlb/)
+
+-->
