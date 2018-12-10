@@ -7,7 +7,7 @@
 - Deep Learning and Machine Learning
     - One Shot Learning
     - Manifold Learning
-    - Generative Models
+    - Explainable AI
 - Signal Processing
     - Speech, Music, Instruments
 - Applications
