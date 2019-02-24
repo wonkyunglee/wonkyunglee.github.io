@@ -42,7 +42,7 @@
 - A little Web programming skills
 
 # Recent Presentations
-- Deep Information Retrieval for Malware Searching System [\[pdf\]](https://www.dropbox.com/s/1d5qwv6ou13taql/Blackhat%20USA2018%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?dl=0) @ Malware Blackhat USA 2018
+- Deep Information Retrieval for Malware Searching System [\[pdf\]](https://www.dropbox.com/s/1d5qwv6ou13taql/Blackhat%20USA2018%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?dl=0) @ Blackhat USA 2018
 - Survey and Our Works of Image Retrieval Task @ ESTsoft A.I.Plus Lab
 - Review of Recent Semi-supervised Learning Methods @ ESTsoft A.I.Plus Lab
 - Research on Relationship between Loss Function and Target Probability Distribution @ ESTsoft AI mini seminar
