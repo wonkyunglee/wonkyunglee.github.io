@@ -67,7 +67,7 @@
 - Excellence award from IoT Hackerton (2014.12.21) [\[pdf\]](https://www.dropbox.com/s/839jtau364ojtz2/IMG.pdf?dl=0)
 
 # Blog
-- https://blog.wonkyunglee.io
+- [https://blog.wonkyunglee.io](https://blog.wonkyunglee.io)
 
 <!--
 
