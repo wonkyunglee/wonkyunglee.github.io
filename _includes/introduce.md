@@ -10,7 +10,6 @@
         - Manifold Learning
         - Context Awareness
     - Interpretable, explainable, disentangle AI
-    - Dataset refining techeniques
 - Signal Processing
     - Speech, Music, Instruments
 - Applications
