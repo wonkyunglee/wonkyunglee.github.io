@@ -1,7 +1,9 @@
 
 # Profile
 - Undergraduate of Electrical & Electronics Engineering at Yonsei Univ. (2011.03 ~)
-- Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)
+- Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~ 2018.08)
+- Ph.D candidate at the School of Electrical & Electronic Engineering, Yonsei Univ. (2019.09 ~ )
+
 
 # Interesting areas
 - Deep Learning and Machine Learning
