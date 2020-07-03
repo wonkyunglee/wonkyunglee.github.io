@@ -10,18 +10,11 @@
 - (ECCV2020) Learning with Privileged Information for Efficient Image Super-Resolution. [[Paper]]() [[Project]]()
     - Junghyup Lee*, Dohyung Kim*, Wonkyung Lee*, and Bumbsub Ham (*equal contribution)
 
-# Interesting areas
-- Deep Learning and Machine Learning
-    - Human-Level Machine Learning
-        - One Shot Learning
-        - Manifold Learning
-        - Context Awareness
-    - Interpretable, explainable, disentangle AI
-- Signal Processing
-    - Speech, Music, Instruments
-- Applications
-    - Recommendation Systems
-    - Information Retrieval Systems
+# Interesting Areas
+- Computer vision 
+- Efficient deep learning
+- Manifold learning
+- Domain adaptation
 
 # Work Experiences
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)
