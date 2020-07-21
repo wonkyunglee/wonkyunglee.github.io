@@ -5,10 +5,10 @@
 - Ph.D candidate at the School of Electrical & Electronic Engineering, Yonsei Univ. (2019.09 ~ )
 
 # Publications
-- (arXiv2019) Learning Semantic Correspondence Exploiting an Object-level Prior. [[Paper]](https://arxiv.org/abs/1911.12914) [[Project]](https://cvlab.yonsei.ac.kr/projects/SFNet/) 
-    - Junghyup Lee*, Dohyung Kim*, Wonkyung Lee, Jean Ponce, and Bumbsub Ham (*equal contribution)
-- (ECCV2020) Learning with Privileged Information for Efficient Image Super-Resolution. [[Paper]]() [[Project]]()
-    - Junghyup Lee*, Dohyung Kim*, Wonkyung Lee*, and Bumbsub Ham (*equal contribution)
+- (TPAMI2020) Learning Semantic Correspondence Exploiting an Object-level Prior. [[Paper]](https://arxiv.org/abs/1911.12914) [[Project]](https://cvlab.yonsei.ac.kr/projects/SFNet/) 
+    - Junghyup Lee\*, Dohyung Kim\*, Wonkyung Lee, Jean Ponce, and Bumbsub Ham (\*equal contribution)
+- (ECCV2020) Learning with Privileged Information for Efficient Image Super-Resolution. [[Paper]](https://arxiv.org/abs/2007.07524) [[Project]](https://cvlab.yonsei.ac.kr/projects/PISR)
+    - Junghyup Lee\*, Dohyung Kim\*, Wonkyung Lee\*, and Bumbsub Ham (\*equal contribution)
 
 # Interesting Areas
 - Computer vision 
