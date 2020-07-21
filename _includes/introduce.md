@@ -1,4 +1,6 @@
 
+Wonkyung Lee received the BE degree in Electrical & Electronic Engineering from Yonsei University, Seoul, South Korea, in 2019. He is currently working toward the PhD degree in Electrical & Electronic Engineering department from Yonsei University. His recent research focuses on building efficient deep learning models for visual tasks. He is also interested in developing alternative self-attention mechanisms for visual recognition.
+
 # Profile
 - Undergraduate of Electrical & Electronics Engineering at Yonsei Univ. (2011.03 ~)
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~ 2018.08)
@@ -28,7 +30,7 @@
 - 특허 제 10-1863615호 : 신경망 학습 기반의 변종 악성 코드를 탐지하기 위한 장치, 이를 위한 방법 및 이 방법을 수행하기 위한 프로그램이 기록된 컴퓨터 판독 가능한 기록매체 [\[pdf\]](https://www.dropbox.com/s/bf2p6whmqsxg5uh/1020170064301.pdf?dl=0)
 
 # Programming Skills
-- Python, PyTorch, tensorflow
+- Python, PyTorch, Tensorflow
 - JAVA, Android
 - C, C++
 - A little Web programming skills
