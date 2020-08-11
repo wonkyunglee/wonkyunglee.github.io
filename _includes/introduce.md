@@ -27,7 +27,9 @@ Wonkyung Lee received the BE degree in Electrical & Electronic Engineering from 
     - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/s/dcskvo1cz8zvl9q/0831_GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_soodal.pdf?dl=0)
 
 # Patents
-- 특허 제 10-1863615호 : 신경망 학습 기반의 변종 악성 코드를 탐지하기 위한 장치, 이를 위한 방법 및 이 방법을 수행하기 위한 프로그램이 기록된 컴퓨터 판독 가능한 기록매체 [\[pdf\]](https://www.dropbox.com/s/bf2p6whmqsxg5uh/1020170064301.pdf?dl=0)
+- \[Domestic\] 특허 제 10-1863615호 : 신경망 학습 기반의 변종 악성 코드를 탐지하기 위한 장치, 이를 위한 방법 및 이 방법을 수행하기 위한 프로그램이 기록된 컴퓨터 판독 가능한 기록매체 [\[pdf\]](https://www.dropbox.com/s/bf2p6whmqsxg5uh/1020170064301.pdf?dl=0)
+- \[International\] PCT/KR2018/005866 : APPARATUS FOR DETECTING VARIANTS OF MALICIOUS CODE BASED ON NEURAL NETWORK LEARNING, METHOD THEREFOR AND COMPUTER READABLE
+RECORDING MEDIUM STORING PROGRAM FOR PERFORMING THE METHOD [\[pdf\]](https://patentimages.storage.googleapis.com/61/c0/d5/38cc93873eaa50/US20190163904A1.pdf)
 
 # Programming Skills
 - Python, PyTorch, Tensorflow
