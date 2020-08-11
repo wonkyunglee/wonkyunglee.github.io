@@ -19,11 +19,11 @@ Wonkyung Lee received the BE degree in Electrical & Electronic Engineering from 
 - Domain adaptation
 
 # Work Experiences
-- Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)
+- Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~ 2018.08)
     - *Malware Detection and Prediction*
     - *Price Optimization*
     - *Context-based Image Retrieval*
-- Development & Service Planning at Startup team *Soodal*
+- Development & Service Planning at Startup team *Soodal* 
     - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/s/dcskvo1cz8zvl9q/0831_GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_soodal.pdf?dl=0)
 
 # Patents
@@ -33,7 +33,6 @@ Wonkyung Lee received the BE degree in Electrical & Electronic Engineering from 
 - Python, PyTorch, Tensorflow
 - JAVA, Android
 - C, C++
-- A little Web programming skills
 
 # Recent Presentations
 - Deep Information Retrieval for Malware Searching System [\[pdf\]](https://www.dropbox.com/s/1d5qwv6ou13taql/Blackhat%20USA2018%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?dl=0) @ Blackhat USA 2018
