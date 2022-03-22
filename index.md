@@ -5,4 +5,4 @@
 layout: page
 ---
 
-{% include introduce.md %}
+{% include introduce_kr.md %}
