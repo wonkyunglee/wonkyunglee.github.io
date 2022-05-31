@@ -4,7 +4,8 @@ Wonkyung Lee received the BE degree in Electrical & Electronic Engineering from 
 # Profile
 - Undergraduate of Electrical & Electronics Engineering at Yonsei Univ. (2011.03 ~)
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~ 2018.08)
-- Ph.D candidate at the School of Electrical & Electronic Engineering, Yonsei Univ. (2019.09 ~ )
+- Ph.D candidate at the School of Electrical & Electronic Engineering, Yonsei Univ. (2019.09 ~ 2021.03)
+- Chief Technical Officer @ PS Analytics. (2021.04 ~ )
 
 # Publications
 - (TPAMI2020) Learning Semantic Correspondence Exploiting an Object-level Prior. [[Paper]](https://arxiv.org/abs/1911.12914) [[Project]](https://cvlab.yonsei.ac.kr/projects/SFNet/) 
