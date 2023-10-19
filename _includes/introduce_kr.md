@@ -13,11 +13,14 @@
 - (TPAMI 2022) Disentangled Representations for Short-Term and Long-Term Person Re-identification. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9585547) [[Project]](https://cvlab.yonsei.ac.kr/projects/ISGAN/)
     - Chanho Eom, Wonkyung Lee, Geon Lee, and Bumbsub Ham
     - Journal Impact Factor = 16.39 (1st in Computer Vision & Pattern Recognition area)
+- (ECCV 2022) Bi-directional Contrastive Learning for Domain Adaptie Semantic Segmentation. [[Paper]](https://arxiv.org/pdf/2207.10892.pdf) [[Project]](https://cvlab.yonsei.ac.kr/projects/DASS/)
+    - Geon Lee, Chanho Eom, Wonkyung Lee, Hyekang Park, and Bumsub Ham
+    - Conference H5-index = 238 (2nd in Computer Vision & Pattern Recognition area)
 - (ECCV 2020) Learning with Privileged Information for Efficient Image Super-Resolution. [[Paper]](https://arxiv.org/abs/2007.07524) [[Project]](https://cvlab.yonsei.ac.kr/projects/PISR)
     - Wonkyung Lee\*, Junghyup Lee\*, Dohyung Kim\*, and Bumbsub Ham (\*equal contribution)
-    - Conference H5-index = 197 (2nd in Computer Vision & Pattern Recognition area)
+    - Conference H5-index = 238 (2nd in Computer Vision & Pattern Recognition area)
 
-# Interesting Areas
+# Interesting Research Areas
 - Computer vision 
 - Efficient deep learning
 - Manifold learning
@@ -29,24 +32,13 @@
     - *가격 최적화 알고리즘 연구/개발*
     - *컨텐츠 기반 이미지 검색 연구*
 - 연구개발총괄 CTO - PS Analytics (2021.04 ~ )
-    - [[lol.ps]](https://lol.ps)
-    - Comming soon!
+    - [lol.ps](https://lol.ps)
+    - [tftps.gg](https://tftps.gg)
 
 # Patents
 - \[Domestic\] 특허 제 10-1863615호 : 신경망 학습 기반의 변종 악성 코드를 탐지하기 위한 장치, 이를 위한 방법 및 이 방법을 수행하기 위한 프로그램이 기록된 컴퓨터 판독 가능한 기록매체 [\[pdf\]](https://www.dropbox.com/s/bf2p6whmqsxg5uh/1020170064301.pdf?dl=0)
 - \[International\] PCT/KR2018/005866 : DEVICE FOR DETECTING VARIANT MALICIOUS CODE ON BASIS OF NEURAL NETWORK LEARNING, METHOD THEREFOR, AND COMPUTER-READABLE RECORDING MEDIUM IN WHICH PROGRAM FOR EXECUTING SAME METHOD I S RECORDED [\[pdf\]](https://patentimages.storage.googleapis.com/0f/84/55/06fb0debcded14/WO2018217019A1.pdf)
 
-# Programming Skills
-- Languages
-  - Python, JavaScript, TypeScript
-- Web
-  - Vue.js
-  - Node.js
-- DataOps
-  - AWS, Terraform, Kubernetes
-  - Kafka, Celery, Rabbitmq
-- Machine Learning
-  - PyTorch, Tensorflow 
 
 # Presentations
 - Deep Information Retrieval for Malware Searching System [\[pdf\]](https://www.dropbox.com/s/1d5qwv6ou13taql/Blackhat%20USA2018%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?dl=0) @ Blackhat USA 2018
